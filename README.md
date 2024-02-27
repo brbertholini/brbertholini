@@ -20,4 +20,4 @@
   <img align="center" alt="bruno-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brbertholini&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brbertholini&show_icons=true&theme=transparent" /></p>
