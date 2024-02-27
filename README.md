@@ -1,8 +1,7 @@
 ### Hi, im Bruno👋
 <h3>A software development student</h3>
 <p>
-- 🔭 I'm currently working on a college project using Kotlin, React, nodeJS. <br>
-- 🌱 I’m currently learning Java, Kotlin, React.
+- 🌱 I’m currently learning Java, Kotlin, React and nodeJS, working on a college project.
 </p>
 <h3>Connect with me:</h3>
 <p>
