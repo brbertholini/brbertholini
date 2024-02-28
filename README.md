@@ -21,4 +21,4 @@
 </div><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brbertholini&show_icons=true&theme=graywhite" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbertholini&theme=graywhite"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbertholini&theme=graywhite"/></p>
