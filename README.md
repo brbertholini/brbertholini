@@ -6,6 +6,7 @@
 <h3>Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/bruno-bertholini/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:brbertholini@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h3>Languages/tools:</h3>
