@@ -23,5 +23,5 @@
   <img align="center" alt="bruno-postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brbertholini&show_icons=true&theme=graywhite" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbertholini&theme=graywhite"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brbertholini&show_icons=true&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbertholini&theme=graywhite"/></p>
